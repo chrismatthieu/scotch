@@ -1,0 +1,16 @@
+{
+    "name": "scotch"
+  , "version": "0.0.1"
+  , "private": true
+  , "homepage": "http://scotch.herokuapp.com"
+  , "node": "0.8.1"
+  , "dependencies": {
+      "marked": ""
+  ,   "metrics": ""  
+  ,   "mongodb-wrapper": ""  
+    } 
+  , "engines": {
+      "node": "0.8.x"
+  ,   "npm": "1.1.x"
+    }
+}
