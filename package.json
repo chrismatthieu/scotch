@@ -8,6 +8,7 @@
       "marked": ""
   ,   "metrics": ""  
   ,   "mongodb-wrapper": ""  
+  ,   "geddy": ""  
     } 
   , "engines": {
       "node": "0.8.x"
